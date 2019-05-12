@@ -1,3 +1,3 @@
 ### Setup
-```pip install beautifulsoup4```
+```pip install beautifulsoup```
 ```pip install apscheduler```
