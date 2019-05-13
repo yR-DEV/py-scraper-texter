@@ -13,5 +13,4 @@
 - ALSO REMEMBER to change the interval value on line 26 of `scraper.py` for delay time between script runs
 
 ### Medium Blog Post
-- https://medium.com/@heh_yr/so-i-wrote-a-py-web-scraper-that-sends-me-scpt-text-messages-about-job-postings-34ffef9a1128
-
+https://medium.com/@yeah_right/so-i-wrote-a-py-web-scraper-that-sends-me-scpt-text-messages-about-job-postings-34ffef9a1128 
