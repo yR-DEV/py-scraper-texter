@@ -23,7 +23,7 @@ def main():
             break  
     return;
 
-sch.add_job(main, 'interval', hours=12)
+sch.add_job(main, 'interval', seconds=2)
 print('Press Ctrl+{0} to exit'.format('Break' if os.name == 'nt' else 'C'))
 
 try:
